@@ -13,3 +13,4 @@ Jquery, SweetAlert2, toast, Bootstrap, Docker, jenkins, Github, data potal API<p
 <p><h4> - (역할)</h4> MVC2 패턴 사용하여 Ajax를 기반으로 주문 관리와 영업 관리 기능을 만들었습니다. 
 고객 C, 제품목록 R, 신규주문 CR, 주문관리 RUD, 출고관리 RU, 상세조회 Modal, 거래처명 필터 조회, 
 사업자번호 진위여부API, 엑셀 다운로드 기능을 개발하였고 프로젝트 발표를 맡았습니다.</p>
+<h3>링크 : https://daeguoracle.com/homeGallery/hpGalleryDetail?tn=hp_pofol&bbsId=204&tableNm=hp_pofol&pageIndex=1</h3>
